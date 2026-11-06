@@ -1,0 +1,7 @@
+from django.shortcuts import render
+
+###
+# AQUI IMPLEMENTAMOS AS REGRAS VIA "apps.cardapio.service.py"
+# E CONSULTAMOS OS MODELS PARA VALIDAÇÃO. ALÉM DE PREPARAR E CONFIGURAR
+# OS RETORNOS DOS ENDPOINTS PARA A API
+###
